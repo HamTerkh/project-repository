@@ -13,5 +13,6 @@ const title = "";
 <script type="текст"></script>;
 var index = 0;
 let userName = "";
-const a = 1;
 console.log("Hello world");
+const a = 1;
+let b = "вторая переменная";
